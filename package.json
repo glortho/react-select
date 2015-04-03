@@ -27,8 +27,7 @@
   "browserify-shim": {
     "classnames": "global:classNames",
     "react": "global:React",
-    "react-input-autosize": "global:AutosizeInput",
-    "lodash": "global:_"
+    "react-input-autosize": "global:AutosizeInput"
   },
   "scripts": {
     "test": "jest; true",
